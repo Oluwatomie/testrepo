@@ -1,1 +1,1 @@
-First line of IntelliJ test file.
+First line of IntelliJ test file.gg
