@@ -1,1 +1,2 @@
 First line of IntelliJ test file.
+Second line of IntelliJ test file..
